@@ -1,0 +1,15 @@
+.DS_Store
+.icon-venv/
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.playground
+timeline.xctimeline
+playground.xcworkspace
+.swiftpm/

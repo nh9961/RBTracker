@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>endpoint</key>
+  <string>https://your-appwrite-endpoint/v1</string>
+  <key>projectId</key>
+  <string>your-project-id</string>
+  <key>databaseId</key>
+  <string>your-database-id</string>
+  <key>intakeTableId</key>
+  <string>your-intake-table-id</string>
+  <key>barcodeTableId</key>
+  <string>your-barcode-table-id</string>
+  <key>chatTableId</key>
+  <string>your-chat-table-id</string>
+  <key>coachProxyURL</key>
+  <string></string>
+</dict>
+</plist>
