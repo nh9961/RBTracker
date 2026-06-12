@@ -1,6 +1,10 @@
-# rbtracker ios
+# RBTracker iOS
 
-native ios app for tracking red bull intake, caffeine, spending, flavours, and usage patterns.
+[![Swift](https://img.shields.io/badge/Swift-5.9-FA7343?logo=swift)](https://swift.org)
+[![Platform](https://img.shields.io/badge/iOS-17%2B-000000?logo=apple)](https://developer.apple.com/ios/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+native iOS app for tracking Red Bull intake, caffeine, spending, flavours, and usage patterns.
 
 this is the swiftui version, not the older web app idea. it has login, synced entries, daily limits, themes, charts, barcode scanning, json import/export, and a bunch of small details that make it feel like it belongs on an iphone.
 
